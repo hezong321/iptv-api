@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-02 06:21:25,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?_upt=f767206b1671099007
+2025-04-02 18:22:24,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?_upt=f767206b1671099007
 
 📺综合频道,#genre#
 河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?_upt=f767206b1671099007
