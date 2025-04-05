@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-05 18:19:45,http://dslive.grtn.cn/hyzh/sd/live.m3u8
+2025-04-06 06:19:18,http://dslive.grtn.cn/hyzh/sd/live.m3u8
 
 📺综合频道,#genre#
 河源综合,http://dslive.grtn.cn/hyzh/sd/live.m3u8
